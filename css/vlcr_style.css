@@ -1,0 +1,128 @@
+.center img {
+    height: 20px;
+    width: 20px;
+}
+ul#vc-items li {
+    display: inline-block;
+    float: left;
+    margin-bottom: 10px;
+    position: relative;
+    text-align: center;
+    width: 20%;
+}
+#vc-panel ul#vc-items,
+#vc-panel ul#vc-items li {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: medium none;
+    clear: none;
+    list-style: outside none none;
+    overflow: visible;
+    padding: 0;
+}
+#vc-panel ul#vc-items li a {
+    background: -moz-linear-gradient(center top , #fafafa 0%, #eeeeee 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-shadow: 0 1px 1px #f5f5f5;
+    display: block;
+    height: 80px;
+    margin-right: 10px;
+    padding: 10px;
+    position: relative;
+}
+#vc-panel ul#vc-items li a img {
+    padding-top: 12px;
+}
+#vc-panel ul#vc-items li a .item-title {
+    color: #666666;
+    font-size: 12px !important;
+    font-weight: 700;
+    line-height: 23px;
+}
+.version_latest {
+    color: #390 !important;
+    float: right;
+}
+.span1.hasTip {
+    float: left;
+    width: 144px;
+}
+.recurring_class {
+    display: none;
+}
+.control-group {
+    padding: 10px;
+}
+.error2 {
+    border: 2px solid red !important;
+}
+#adminForm input,
+select {
+    display: inline-block;
+    margin: 0 5px 0 0;
+    vertical-align: top;
+}
+#currencycontainer .control-label.hasTip {
+    float: left;
+    width: 144px;
+}
+
+.add-on {
+    background: none repeat scroll 0 0 #fafafa;
+    border: 1px solid #cccccc;
+    color: #666666;
+    display: inline-block;
+    font-size: 13px;
+    height: 18px;
+    line-height: 18px;
+    padding: 4px;
+}
+.item-title {
+    display: block;
+}
+.version_latest {
+    float: right;
+    margin-right: 33px;
+}
+#vc-items .item-title > span {
+    font-size: 14px;
+}
+.version_latest {
+    color: #390 !important;
+    float: right;
+}
+#vc-items li a{
+background: -moz-linear-gradient(center top , #fafafa 0%, #eeeeee 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-shadow: 0 1px 1px #f5f5f5;
+    display: block;
+    height: 80px;
+    margin-right: 10px;
+    padding: 10px;
+    position: relative;
+}
+#vc-items li {
+    display: inline-block;
+    float: left;
+    margin-bottom: 10px;
+    position: relative;
+    text-align: center;
+    width: 20%;
+}
+.weekdays_label > label {
+    border: 1px solid;
+    cursor: pointer;
+    float: left;
+    font-size: 16px;
+    margin: 5px;
+    text-align: center;
+    width: 40px;
+
+}
+.weekdays_label label.active {
+    color: red;
+}
+#toplevel_page_virtualclassroom-vc_setup .wp-first-item {
+    display: none;
+}
